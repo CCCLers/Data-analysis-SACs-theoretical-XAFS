@@ -1,0 +1,82 @@
+{
+    "Default - Fe K-edge": {
+        "atom_kind": "Fe",
+        "donor_type": "1s",
+        "excitation_type": "2p",
+        "emin": "700",
+        "emax": "730",
+        "npts": "2000",
+        "broadening_regions_lorentz": "emin,emax,0.4",
+        "broadening_regions_gauss": "emin,emax,1.0"
+    },
+    "1": {
+        "atom_kind": "Fe",
+        "donor_type": "1s",
+        "excitation_type": "",
+        "emin": "6985",
+        "emax": "7015",
+        "npts": "2000",
+        "broadening_regions_lorentz": "emin,emax,0.4",
+        "broadening_regions_gauss": "emin,emax,1.0"
+    },
+    "2": {
+        "atom_kind": "Fe",
+        "donor_type": "1s",
+        "excitation_type": "2p",
+        "emin": "700",
+        "emax": "730",
+        "npts": "2000",
+        "broadening_regions_lorentz": "emin,emax,0.4",
+        "broadening_regions_gauss": "emin,emax,1.0"
+    },
+    "FeN4SHH-r2scan": {
+        "atom_kind": "Fe",
+        "donor_type": "1s",
+        "excitation_type": "",
+        "emin": "6995",
+        "emax": "7030",
+        "npts": "2000",
+        "broadening_regions_lorentz": "emin,7013.55,0.8;7013.55,emax,2.0",
+        "broadening_regions_gauss": "emin,emax,1.0"
+    },
+    "FeN4S-r2scan-xas-new": {
+        "atom_kind": "Fe",
+        "donor_type": "1s",
+        "excitation_type": "",
+        "emin": "6985",
+        "emax": "7050",
+        "npts": "2000",
+        "broadening_regions_lorentz": "emin,7016,0.8;7016,emax,2.0",
+        "broadening_regions_gauss": "emin,emax,1.0"
+    },
+    "pyridine": {
+        "atom_kind": "Fe",
+        "donor_type": "1s",
+        "excitation_type": "",
+        "emin": "6990",
+        "emax": "7030",
+        "npts": "2000",
+        "broadening_regions_lorentz": "emin,7010,0.5",
+        "broadening_regions_gauss": "emin,emax,1.0"
+    },
+    "pyrrolic": {
+        "atom_kind": "Fe",
+        "donor_type": "1s",
+        "excitation_type": "",
+        "emin": "6990",
+        "emax": "7030",
+        "npts": "2000",
+        "broadening_regions_lorentz": "emin,7011,0.5;7011,emax,2.0",
+        "broadening_regions_gauss": "emin,emax,1.0"
+    },
+    "test2": {
+        "atom_kind": "Fe",
+        "donor_type": "1s",
+        "excitation_type": "",
+        "emin": "6990",
+        "emax": "7030",
+        "npts": "2000",
+        "broadening_regions_lorentz": "0.5,2.0",
+        "broadening_regions_gauss": "emin,emax,1.0"
+    }
+}

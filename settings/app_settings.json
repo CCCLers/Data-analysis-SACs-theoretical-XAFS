@@ -1,0 +1,8 @@
+{
+    "spectrum_output_choice": "spectrum_dir",
+    "spectrum_custom_path": "",
+    "plot_output_choice": "current_dir",
+    "plot_custom_path": "",
+    "broadening_method": "Lorentzian",
+    "last_preset": "test2"
+}
